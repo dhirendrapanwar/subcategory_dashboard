@@ -1,8 +1,10 @@
 # subcategory_dashboard
 
 Project Description: 
+Dashboard will be used for identifying the subcategory with right market conditions for Product success. 
+Different metrics can be used from the dashboard by the users which helps comparing between subcategories based on past sales, likelihood score, comparing different brands etc
 
-contains the code for tables that are used by subcategory dashboard.
+Repository contains the code for tables that are used by subcategory dashboard.
 
 Each file creates data for the tables below:
 bdaz.dashboard_bdaz_sales_us_segment
